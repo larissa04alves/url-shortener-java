@@ -15,4 +15,6 @@ AWS Lambda: Para execução de funções serverless.
 Amazon API Gateway: Gerenciamento das APIs RESTful.
 Amazon DynamoDB: Armazenamento das URLs originais e seus respectivos links curtos.
 
+
+
 Este projeto foi desenvolvido com base nos conhecimentos adquiridos na plataforma Rocketseat, visando fornecer uma solução eficiente e escalável para o encurtamento de URLs, aproveitando os benefícios da arquitetura serverless na AWS.
